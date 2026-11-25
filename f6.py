@@ -1,0 +1,1 @@
+print("f6.py of master-branch")
