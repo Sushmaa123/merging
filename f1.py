@@ -1,0 +1,2 @@
+print("merging commands")
+print("f1.py of master")
